@@ -13,6 +13,6 @@ export const environment = {
     storageBucket: "oshop-70200.appspot.com",
     messagingSenderId: "419350936643",
     appId: "1:419350936643:web:b5951dfe16f8b749e528f6",
-    measurementId: "G-SN13QYR2JY",
-  },
+    measurementId: "G-SN13QYR2JY"
+  }
 };
